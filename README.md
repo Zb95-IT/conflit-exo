@@ -1,3 +1,1 @@
-# conflit-exo
-
-test
+LOCAL
